@@ -1,8 +1,8 @@
-# 🚀 Welcome to FilCoin
+# 🚀 Welcome to FilHelper
 
 **Filecoin Mosaic: Decentralized Storage, Simplified**
 
-FilCoin is your trusted gateway to secure, scalable, and user-friendly decentralized file storage powered by Filecoin. Built using the robust MERN stack, FilCoin empowers users with encrypted storage, seamless sharing, and complete blockchain transparency.
+FilHelper is your trusted gateway to secure, scalable, and user-friendly decentralized file storage powered by Filecoin. Built using the robust MERN stack, FilCoin empowers users with encrypted storage, seamless sharing, and complete blockchain transparency.
 
 ---
 
