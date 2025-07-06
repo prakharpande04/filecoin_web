@@ -1,69 +1,68 @@
-# Welcome to your Lovable project
+# 🚀 Welcome to FilCoin
 
-## Project info
+**Filecoin Mosaic: Decentralized Storage, Simplified**
 
-**URL**: https://lovable.dev/projects/35d72d2e-6e25-40e5-9b0c-c0d1a7c1b727
+FilCoin is your trusted gateway to secure, scalable, and user-friendly decentralized file storage powered by Filecoin. Built using the robust MERN stack, FilCoin empowers users with encrypted storage, seamless sharing, and complete blockchain transparency.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🌐 Project Links
 
-**Use Lovable**
+- **Live Project**: [https://filcoin.vercel.app](https://filcoin.vercel.app)
+- **GitHub Repo**: [github.com/prakharpande04/filecoin_web](https://github.com/prakharpande04/filecoin_web)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/35d72d2e-6e25-40e5-9b0c-c0d1a7c1b727) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 📦 Tech Stack
 
-**Use your preferred IDE**
+FilCoin is built using the **MERN Stack** and other modern tools:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **MongoDB** – Flexible NoSQL storage
+- **Express.js** – Fast and scalable backend
+- **React.js** – Dynamic and responsive frontend
+- **Node.js** – Server-side JavaScript runtime
+- **Tailwind CSS** – Utility-first CSS framework
+- **Vercel** – Effortless cloud deployment
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## ✨ Features
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+> **Filecoin Mosaic: Decentralized Storage, Simplified**
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Empower your data with secure, scalable, and user-friendly decentralized storage powered by Filecoin.
 
-# Step 3: Install the necessary dependencies.
-npm i
+### 📁 Decentralized Storage  
+Store files securely across a global network, eliminating single points of failure and ensuring redundancy.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+### 🔍 Easy File Management  
+Upload, organize, and retrieve your files through a simple, intuitive interface designed for all users.
+
+### 🔐 End-to-End Encryption  
+Your data is encrypted before it leaves your device, ensuring privacy and complete security at every step.
+
+### 🔗 Seamless Sharing  
+Easily share files and folders with anyone via secure, permission-based links.
+
+### 📈 Scalable & Affordable  
+Only pay for the storage you use. Effortlessly scale with your needs, and enjoy transparent pricing.
+
+### 📜 Blockchain Transparency  
+Track storage deals and file history directly on-chain to ensure trust and data integrity.
+
+---
+
+## ✏️ How Can I Edit This Code?
+
+### 💻 Option 1: Use Your IDE Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/prakharpande04/filecoin_web.git
+cd filecoin_web
+
+# Install dependencies
+npm install
+
+# Run the development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/35d72d2e-6e25-40e5-9b0c-c0d1a7c1b727) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
