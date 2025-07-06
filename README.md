@@ -8,7 +8,7 @@ FilCoin is your trusted gateway to secure, scalable, and user-friendly decentral
 
 ## 🌐 Project Links
 
-- **Live Project**: [https://filcoin.vercel.app](https://filcoin.vercel.app)
+- **Live Project**: [https://filhelper.vercel.app](https://filhelper.vercel.app)
 - **GitHub Repo**: [github.com/prakharpande04/filecoin_web](https://github.com/prakharpande04/filecoin_web)
 
 ---
