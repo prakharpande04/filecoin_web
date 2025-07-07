@@ -6,7 +6,6 @@ import HumanoidSection from "@/components/HumanoidSection";
 import VisionSection from "@/components/VisionSection";
 import DetailsSection from "@/components/DetailsSection";
 import Features from "@/components/Features";
-import Testimonials from "@/components/Testimonials";
 import Newsletter from "@/components/Newsletter";
 
 const Index = () => {
@@ -64,7 +63,6 @@ const Index = () => {
         <VisionSection />
         <DetailsSection />
         <Features />
-        <Testimonials />
         <Newsletter />
       </main>
     </div>
