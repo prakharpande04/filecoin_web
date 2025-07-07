@@ -12,6 +12,7 @@ FilHelper is your trusted gateway to secure, scalable, and user-friendly decentr
 - **GitHub Repo**: [github.com/prakharpande04/filecoin_web](https://github.com/prakharpande04/filecoin_web)
 - **Mosaia Agent**: [https://github.com/prakharpande04/filecoin_mosaia](https://github.com/prakharpande04/filecoin_mosaia)
 - **Mosaia Profile**: [https://www.mosaia.ai/user/prakharpande04](https://www.mosaia.ai/user/prakharpande04)
+- **Youtube Link**: [https://youtu.be/_9Ni1Hkm6ac?si=3R1cxJUTulhSKtnt](https://youtu.be/_9Ni1Hkm6ac?si=3R1cxJUTulhSKtnt)
 ---
 
 ## 📦 Tech Stack
